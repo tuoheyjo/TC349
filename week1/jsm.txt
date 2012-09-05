@@ -1,0 +1,18 @@
+Joseph Tuohey
+TC 349 
+Week 1 - Website Critique
+
+Jason Santa Maria's website is very well laid out and organized. All of his information is easily accessible and 
+the site for the most part feels clean. A few minor tweaks could improve upon the site. Ultimately though, 
+it is usable, good-looking and solid design. 
+
+I like the site overall. The color scheme is attractive and does a good job of providing contrast. The tabs make
+information more easily accessible and easy-to-use than some other sites I've seen. The thumbnails (and/or previews)
+on the right side of posts add some variety and fun to the main page. On the various pages, the links for filters
+are clever and make finding specific articles easier. This is an excellent personal website. 
+
+The only improvements I would make would be to include less information that is always at the bottom of the page, 
+and to finish up the "Portfolio" tab. At the bottom of every page is the small heading, "On the subject of me" which
+seems a little self-centered. More importanly, it clutters all of the pages with information that would be better
+suited to its own tab. And this may be obvious, but it was disappointing to see that the portfolio tab was still 
+under construction. 
