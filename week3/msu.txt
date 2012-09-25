@@ -1,0 +1,16 @@
+Joseph Tuohey
+TC 349 
+Week 3 - MSU Website Critique
+
+Overall, I like MSU's homepage. It feels modern without being overbearing, while making 
+important information easily accessible. The fonts are large and easy to read, 
+and the various colors break up the website to make it visually appealing. The drop 
+down menus in off-white are extremely useful for finding information, and the search
+function is large and easy to read, unlike many homepages. Generally, it is a 
+useful, good-looking website.
+
+There are a few minor gripes I do have about the page, though. The smaller headings 
+for Students, Faculty & Staff, etc. feel jammed into the page and make it a little
+more clunky. While the MSU Talk feature at the bottom of the page is a nice feature,
+the extra two graphics for Spartan Sagas and the "One Book, One Community" campaign 
+make the site messier. These are, however, minor gripes in the grand scheme of things. 
