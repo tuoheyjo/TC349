@@ -1,0 +1,14 @@
+Joseph Tuohey
+TC349
+Week 4 Critique
+	
+	The Etsy Website is attractive and appears easy to use. I like that is is very modular, with enough 
+space in between elements to make them easy to dilineate. The design is pretty minimalist without being 
+too plain, like Craigslist. The different categories are easy to drill down into, and the main page is similar
+in design to the subcategory pages, making them easy to navigate. In general, the website is nicely 
+	The main problem I have with the website is more a matter of personal opinion than anything. All of the
+items that are being marketed on the site appear to be for women. The "Handpicked Items" for me (a male) are
+french leggings, jewelry, women's shoes, and fingerless gloves (modeled by a woman). Considering that
+I don't have safe browsing turned on and cookies are enabled, you'd think that a website like this would
+be able to have a better idea of what a person might be interested in, rather than a list "curated" by an
+individual. 
