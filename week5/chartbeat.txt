@@ -1,0 +1,10 @@
+Joseph Tuohey
+TC349
+Week 5 Critique
+	
+Chartbeat is an attractive website and appears largely easy to use. The 
+logos are large, the information is easy to see, and in general good-looking.
+
+One change I'd make to this site is that the bar at the top scrolls down with
+the page and is large and blocks out information from being displayed, which
+is annoying and not useful. 
