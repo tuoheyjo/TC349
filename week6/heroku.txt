@@ -1,0 +1,21 @@
+Joseph Tuohey
+TC349
+Week 6 Critique
+
+	The Heroku website is clean, attractive, and interactive in a fun way. I like the 
+way that portions of the site light up when they're hovered over, and that on the first page that
+is shown on the site, it is possible to get to any important information. The 'How it Works' page
+is particularly interesting, with a complicated interactive model on the page. And while that
+model is complicated, the interactivity of the model made me interested in poking around and 
+learning more about what they do. The 'Pricing' section is similarly interactive and interesting,
+with large sliding scales and dynamic information.
+	My biggest problem with the Heroku site is the color scheme. On the bottom of each page, the
+navigation font is just varely lighter than the background color. It helps that when the links 
+are hovered over, the navigation links lighten. But in general, the color scheme is dark and I
+would have chosen a lighter font for these links as well as some of the text on each individual
+page. 
+
+	For my layouts of my personal site, I decided to use a single-column format. Most of my content
+is short enough to include a picture and the navigation in the footer on the very first length of 
+screen, and it is most attractive in a single-column format. Changing the way my content was 
+structured was a helpful exercise though, as before now, the layout was somewhat clunky. 
