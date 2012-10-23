@@ -6,7 +6,6 @@ h1 {
 	font-weight: bold;
 	background: #ccc;
 	font-size: 36px;
-	text-align: center;
 	margin: 0px;
 }
 
@@ -27,30 +26,30 @@ p img{
 	margin: 15px 0px 0px 0px;
 }
 
-.content {
+.wrap {
 	width: 600px;
 	margin: 0 auto;
 	background: #fff;
 }
 
-.navigation {
+footer {
 	width: 600px;
 	margin: 0 auto;
 	text-align: center;
 }
 
-.navigation ul {
+footer ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0px 0px 20px 0px;
 }
 
-.navigation ul li {
+footer ul li {
 	display: inline;
 	text-transform: uppercase;
 }
 
-.homepage {
+header {
 	text-align: center;
 	background: #fff;
 	width: 600px;

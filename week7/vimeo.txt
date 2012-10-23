@@ -1,0 +1,17 @@
+Joseph Tuohey
+TC349
+Week 7 Critique - Vimeo
+
+	The Vimeo website is quite well put together and is attractive. The
+pages are put together nicely and none of the information displayed, either
+on specific "channels" or on Vimeo information pages, seems extraneous or
+unnecessary. The navigation bar on the bottom is useful and makes the site
+easy to explore from any page.
+	Further, I like the way that Vimeo uses a combination of different layouts.
+Many pages are a simply one-column design, but for specific channels, a 
+layour similar to a gallery is used, and this design makes the information much
+easier to see and interact with. The "channel" architecture is familiar due to 
+the same nomenclature being used on YouTube. The only thing I would change 
+about the Vimeo site is how often the site asks me to join it. I understand
+that they need to prompt users to join, but it would be preferable to not
+be asked so may times. 
