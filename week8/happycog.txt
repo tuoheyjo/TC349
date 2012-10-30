@@ -1,0 +1,14 @@
+Joseph Tuohey
+TC349
+Week 8 Critique - Happy Cog
+
+	The Happy Cog Website is well laid-out and very unique. I really 
+enjoy the fact that everything is encapsulated on the homepage and
+can be navigated to using the navigation bar, but also found organically
+by using simply scrolling. The colors are bright without being annoying,
+and the content itself was also interesting. 
+	The only thing I would change about the site would be to delineate
+the sections a bit more clearly. As I was scrolling down the main page, 
+it was sometimes difficult to figure out exactly where a section began 
+or ended without clicking on the navigation pane. This would be easily 
+fixed and is a relatively minor complaint in the grand scheme of things.

@@ -41,6 +41,7 @@ hgroup {
 	padding: 15px;
 	background: #fff url(images/yum.jpg) no-repeat;
 	border-top: 10px solid #222;
+	box-shadow: 0 0 10px #424242;
 }
 
 article {
