@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>index</title>
+
+    <!-- Sets initial viewport load and disables zooming  -->
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <!-- Makes your prototype chrome-less once bookmarked to your phone's home screen -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <!-- Set Apple icons for when prototype is saved to home screen -->
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="touch-icons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="touch-icons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="touch-icons/apple-touch-icon-57x57.png">
+
+    <!-- Include the compiled Ratchet CSS -->
+    <link rel="stylesheet" href="ratchet.css">
+
+    <!-- Include the compiled Ratchet JS -->
+    <script src="ratchet.js"></script>
+
+    <!-- Intro paragraph styles. Delete once you start using this page -->
+    <style type="text/css">
+        .welcome {
+          line-height: 1.5;
+          color: #555;
+        }
+    </style>
+
+  </head>
+  <body>
+
+  <!-- Make sure all your bars are the first things in your <body> -->
+<header class="bar-title">
+  <h1 class="title">My Great Mobile Site</h1>
+  </header>
+<div class="bar-standard bar-header-secondary">
+  <ul class="segmented-controller">
+    <li class="active">
+      <a href="#">Navigation</a>
+    </li>
+    <li>
+      <a href="#">Navigation</a>
+    </li>
+    <li>
+      <a href="#">Navigation</a>
+    </li>
+	<li>
+      <a href="#">Navigation</a>
+    </li>
+  </ul>
+</div>
+<nav class="bar-tab">
+  <ul class="tab-inner">
+    <li class="tab-item active">
+      <a href="">
+        <img class="tab-icon" src="img/icon-home.png">
+        <div class="tab-label">Home</div>
+      </a>
+    </li>
+    <li class="tab-item">
+      <a href="">
+        <img class="tab-icon" src="img/icon-profile.png">
+        <div class="tab-label">Link</div>
+      </a>
+    </li>
+    <li class="tab-item">
+      <a href="">
+        <img class="tab-icon" src="img/icon-messages.png">
+        <div class="tab-label">Link</div>
+      </a>
+    </li>
+  </ul>
+</nav>
+
+  <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
+  <div class="content">
+	<h1>Example page header <small>Subtext for header</small></h1>
+	<span class="count-positive">2</span>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+	Nulla gravida dapibus justo quis malesuada. Curabitur condimentum, 
+	nunc non pulvinar vestibulum, ipsum justo iaculis tortor, quis 
+	pulvinar nunc est non ante. Nulla facilisi. Curabitur et auctor 
+	felis. Cum sociis natoque penatibus et magnis dis parturient montes, 
+	nascetur ridiculus mus. Aenean in lectus arcu. Nullam ultricies 
+	nisi id libero commodo eleifend. Vestibulum ante ipsum primis in 
+	faucibus orci luctus et ultrices posuere cubilia Curae; Nam scelerisque 
+	sodales vehicula. Ut dignissim bibendum molestie. In mollis lacus 
+	feugiat orci convallis in luctus sem volutpat. Ut scelerisque, augue 
+	a convallis lacinia, elit sem sodales ante, vitae congue ligula tortor 
+	rhoncus nulla. Vestibulum ante ipsum primis in faucibus orci luctus et 
+	ultrices posuere cubilia Curae; Pellentesque consectetur elit sed tortor 
+	pretium faucibus. Cum sociis natoque penatibus et magnis dis parturient 
+	montes, nascetur ridiculus mus. Nulla facilisi.
+	</p>
+	<div class="slider">
+	  <ul>
+		<li>
+		  <img src="img/slide-1.jpg">
+		  <span class="slide-text">? Slide me</span>
+		</li>
+		<li>
+		  <img src="img/slide-2.jpg">
+		</li>
+	  </ul>
+	</div>
+	<form>
+	  <textarea rows="5"></textarea>
+	  <a class="button button-block">Submit</a>
+	</form>
+
+  </div>
+
+  </body>
+</html>

@@ -1,0 +1,18 @@
+Joe Tuohey
+TC 349
+Week 10 Writing - MSU Mobile
+
+	The MSU Mobile website is not very impressive on its face, with an exceedingly simple 
+dashboard of available options. However, these available options are very good ones, and
+make the entirety of the MSU Mobile site pretty good. The main dashboard has just 8 options
+(not including the Full Site link or the customize option) give the impression that the 
+mobile site is not well fleshed out. 
+	But the individual features - People, News, Events, Map, Athletics, About MSU, Libraries, 
+and Video are all pretty good representations of their browser counterparts. The people 
+search does exactly what it does on the browser version, while News and Events give
+as much information as possible considering the cramped screen size. The Map
+site is well thought out and lets you look up a specific building on campus, which would be
+really helpful when walking around and lost. Similarly, the libraries site gives hours and 
+locations first, which would be the most important things for somebody accessing from a
+mobile device. All in all, though the number of features is somewhat limited, the ones
+that are available are high quality.
