@@ -1,0 +1,15 @@
+Joseph Tuohey
+TC 349
+Mobile Website Critique
+
+	The mobile website I use often is Tumblr. This is due to the fact that I do not 
+have a Tumblr account myself, but I do enjoy checking a few choice accounts fairly
+often. The Tumblr mobile website is quite nice to use, and does a good job of 
+emulating the experience from the usual desktop website. All of the information is 
+scaled nicely to the smaller screen, with very little loss.
+	The biggest element of Tumblr that is lost on the mobile device is the unique
+background for individual users. This is not a particularly huge deal because those 
+backgrounds are not dynamic content, nor do they change much from user to user. 
+However, the mobile site scales and centers content nicely, allows users to look at
+notes on posts, and allows for loading more posts than just the first page. Overall,
+it is a very usable and attractive mobile site. 
